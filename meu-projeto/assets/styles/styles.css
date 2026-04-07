@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+
+header h1 {
+    text-align: center;
+    border: 2px solid rgb(104, 67, 37);
+    border-radius: 5px;
+    background-color: rgb(104, 67, 37);
+    color: antiquewhite;
+
+}
+
+div {
+    margin-top: 2px;
+    border: 2px solid rgb(104, 67, 37);
+    border-radius: 5px;
+    padding: 2rem;
+    cursor: pointer;
+}
